@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba 👋
 Projelerimi uzun bir süre public yapmayı düşünmüyorum...
 <!--
 **mehmethakkioglu/mehmethakkioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
